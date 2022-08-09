@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea
+/.vscode
+/cmake-build-debug
+/build
+/libtorch
+/third_party
+
+
